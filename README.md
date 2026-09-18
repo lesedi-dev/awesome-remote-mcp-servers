@@ -653,6 +653,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [LogoKit](https://logokit.com) `https://mcp.logokit.com/mcp`
   [![LogoKit MCP connector](https://glama.ai/mcp/connectors/com.logokit/brand-data/badges/score.svg)](https://glama.ai/mcp/connectors/com.logokit/brand-data)
   🔑 - Company logos, brand colors, and firmographic data by domain.
+  - [Oviond](https://oviond.com) `https://api.oviond.com/mcp`
+  [![Oviond MCP connector](https://glama.ai/mcp/connectors/com.oviond.api/oviond/badges/score.svg)](https://glama.ai/mcp/connectors/com.oviond.api/oviond)
+  🔐 - Build white-label client reports from 100+ marketing datasources, and schedule their delivery.
 - [Mailcoach](https://mailcoach.app) `https://mcp.mailcoach.app`
   🔐 - Read subscribers, campaigns, stats and email logs; create drafts and templates, and send test emails.
 - [Miraqo](https://miraqo.io) `https://app.miraqo.io/mcp`
